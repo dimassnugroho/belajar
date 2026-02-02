@@ -1,0 +1,109 @@
+Riviera
+
+LT : 72m²
+LB : 80m²
+KT : 3
+KM : 3
+Cicilan 5 Juta/Bulan
+
+Virezza
+
+LT : 72m²
+LB : 65m²
+KT : 2
+KM : 3
+Cicilan 6 Juta/Bulan
+
+Emerald
+
+LT : 102m²
+LB : 121m²
+KT : 4+1
+KM : 3+1
+Cicilan 9 Juta/Bulan
+
+Nordic
+
+LT : 84m²
+LB : 92m²
+KT : 3+1
+KM : 3+1
+Cicilan 9 Juta/Bulan
+
+Belissa
+
+LT : 128m²
+LB : 173m²
+KT : 4+1
+KM : 4+1
+Cicilan 10 Juta/Bulan
+
+Maika
+
+LT : 105m²
+LB : 139m²
+KT : 5+1
+KM : 4+1
+Cicilan 14 Juta/Bulan
+
+Aluvia
+
+LT : 105m²
+LB : 125m²
+KT : 3+1
+KM : 3+1
+Cicilan 14 Juta/Bulan
+
+Azzura
+
+LT : 170m²
+LB : 238m²
+KT : 4+1
+KM : 5+1
+Cicilan 14 Juta/Bulan
+
+Aralia
+
+LT : 144m²
+LB : 179m²
+KT : 5+1
+KM : 4+1
+Cicilan 16 Juta/Bulan
+
+Dharmawangsa
+
+LT : 204m²
+LB : 294m²
+KT : 5+1
+KM : 5+1
+Cicilan 35 Juta/Bulan
+
+
+
+Rukoz 
+Rukozimages
+
+LT : 60m²
+LB : 159m²
+KT : 3
+KM : 4
+Cicilan 11 Juta/Bulan
+
+Botanica Avenue 
+BotanicaAvenueimages
+
+LT : 66m²
+LB : 149m²
+KT : 3
+KM : 4
+Cicilan 14 Juta/Bulan
+
+U-Town Avenue 
+UTownAvenueimages
+
+LT : 70m²
+LB : 166m²
+KT : 3
+KM : 4
+Cicilan 15 Juta/Bulan
+
