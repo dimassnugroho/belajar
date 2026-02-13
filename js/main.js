@@ -401,3 +401,13 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
+// WhatsApp Integration
+function sendWhatsApp(propertyName) {
+    const phone = '6281318630151'; // Anthoni's WhatsApp number
+    const message = `Halo Anthoni, Saya bisa minta detail Katalog, Simulasi dan Promo terbaru Bintaro Jaya (${propertyName}) - https://infohunianbintaro.id/`;
+    const encodedMessage = encodeURIComponent(message);
+    const whatsappUrl = `https://api.whatsapp.com/send?phone=${phone}&text=${encodedMessage}`;
+    
+    window.open(whatsappUrl, '_blank');
+}
